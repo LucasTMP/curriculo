@@ -1,2 +1,2 @@
-# http://currilulo
+# http://curriculo
 Meu curriculo
